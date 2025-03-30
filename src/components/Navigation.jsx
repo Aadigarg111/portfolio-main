@@ -33,6 +33,7 @@ const Navigation = () => {
         className={`
         fixed top-0 z-40 w-full backdrop-blur-sm bg-transparent
         transform transition-all duration-500 ease-in-out
+        pt-2.5 /* Added padding-top of 4px */
         ${scrolled ? "-translate-y-full" : "translate-y-0"}
       `}
       >
