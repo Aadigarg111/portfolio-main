@@ -101,6 +101,12 @@ import {
       link: "/",
       description: "Collaby is an intuitive and interactive collaborative board designed to enhance teamwork and productivity. It allows users to brainstorm, share ideas, and work together in real-time. With features like drag-and-drop elements, customizable boards, and seamless integration with modern tools, Collaby is perfect for project management, creative planning, and remote collaboration."
     },
+
+    {
+      title: "Chess",
+      link: "/",
+      description: "A fully functional Chess game built entirely in React, featuring smooth gameplay, legal move validation, and an interactive UI. Designed with modern React practices, it ensures optimal performance and a seamless user experience."
+    },
     
     {
       title: " SpaceTrack",
