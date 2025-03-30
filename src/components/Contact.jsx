@@ -11,6 +11,9 @@ const Contact = () => {
       gradientFrom: "from-purple-600",
       gradientTo: "to-purple-500",
     },
+
+    
+      
     {
       name: "LinkedIn",
       icon: Linkedin,
