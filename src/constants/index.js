@@ -117,12 +117,7 @@ import {
       link: "/",
       description: "Void Voyager: An immersive 3D solar system explorer that brings the cosmos to life in your browser with stunning visuals and intuitive controls."
     },
-    {
-      title: " SpaceTrack",
-      link: "/",
-      description: "Void Voyager: An immersive 3D solar system explorer that brings the cosmos to life in your browser with stunning visuals and intuitive controls."
-    },
-  ];
+    
 
   const achievements = [
     {
