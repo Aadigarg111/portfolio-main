@@ -15,10 +15,7 @@ import {
     bny,
     ivlabs,
     profile,
-    riderover,
-    skd,
-    ggs,
-    
+    riderover,    
   } from "../assets";
 
   const services = [
@@ -75,23 +72,23 @@ import {
   
   const experiences = [
     {
-      title: "BTech, Information Technology",
-      company_name: "Guru Gobind Singh Indraprastha University",
-      icon: ggs,
+      title: "Software Engineer",
+      company_name: "lorem ipsum",
+      icon: bny,
       iconBg: "#383E56",
-      date: "August 2023 - Present",
+      date: "July 2024 - Present",
       points: [
-        "Grade: 8.711",
+        "Working on web application development using React, Node.js, and MongoDB",
       ],
     },
     {
-      title: "Senior Secondary, science",
-      company_name: "Shree Kali Devi Vidya Mandir",
-      icon: skd,
+      title: "SDE Intern",
+      company_name: "lorem ipsum",
+      icon: bny,
       iconBg: "#E6DEDD",
-      date: "2008 - april 2023",
+      date: "May 2023 - July 2023",
       points: [
-        "Grade: 9",
+        "Developed a web application using React, Node.js, and MongoDB for managing financial transactions",
       ],
     },
     
