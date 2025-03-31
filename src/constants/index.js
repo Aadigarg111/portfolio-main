@@ -16,6 +16,8 @@ import {
     ivlabs,
     profile,
     riderover,
+    skd,
+    ggs,
     
   } from "../assets";
 
@@ -73,29 +75,34 @@ import {
   
   const experiences = [
     {
-      title: "Software Engineer",
-      company_name: "lorem ipsum",
-      icon: bny,
+      title: "BTech, Information Technology",
+      company_name: "Guru Gobind Singh Indraprastha University",
+      icon: ggs,
       iconBg: "#383E56",
-      date: "July 2024 - Present",
+      date: "August 2023 - Present",
       points: [
-        "Working on web application development using React, Node.js, and MongoDB",
+        "Grade: 8.711",
       ],
     },
     {
-      title: "SDE Intern",
-      company_name: "lorem ipsum",
-      icon: bny,
+      title: "Senior Secondary, science",
+      company_name: "Shree Kali Devi Vidya Mandir",
+      icon: skd,
       iconBg: "#E6DEDD",
-      date: "May 2023 - July 2023",
+      date: "2008 - april 2023",
       points: [
-        "Developed a web application using React, Node.js, and MongoDB for managing financial transactions",
+        "Grade: 9",
       ],
     },
     
   ];
   
   const projects = [
+    {
+      title: " Speedy",
+      link: "https://speedy.aadigarg.life/",
+      description: " A quick and accurate typing speed test to measure your words per minute (WPM) and accuracy. ⌨️🚀"
+    },
     {
       title: "Collaby - A Collaborative Board",
       link: "/",
@@ -113,7 +120,11 @@ import {
       link: "/",
       description: "Void Voyager: An immersive 3D solar system explorer that brings the cosmos to life in your browser with stunning visuals and intuitive controls."
     },
-    
+    {
+      title: " SpaceTrack",
+      link: "/",
+      description: "Void Voyager: An immersive 3D solar system explorer that brings the cosmos to life in your browser with stunning visuals and intuitive controls."
+    },
   ];
 
   const achievements = [
