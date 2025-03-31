@@ -84,7 +84,7 @@ import {
     {
       title: "Senior Secondary, science",
       company_name: "Shree Kali Devi Vidya Mandir",
-      icon: bny,
+      icon: riderover,
       iconBg: "#E6DEDD",
       date: "2008 - April 2023",
       points: [
