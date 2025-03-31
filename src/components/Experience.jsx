@@ -232,7 +232,7 @@ const Experience = memo(
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            Work Experience
+            Education
           </motion.h2>
 
           <motion.div
