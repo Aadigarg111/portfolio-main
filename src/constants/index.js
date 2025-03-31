@@ -72,23 +72,23 @@ import {
   
   const experiences = [
     {
-      title: "Software Engineer",
-      company_name: "lorem ipsum",
+      title: "BTech, Information Technology",
+      company_name: "Guru Gobind Singh Indraprastha University",
       icon: bny,
       iconBg: "#383E56",
-      date: "July 2024 - Present",
+      date: "August 2023 - Present",
       points: [
-        "Working on web application development using React, Node.js, and MongoDB",
+        "Garde: 8.8",
       ],
     },
     {
-      title: "SDE Intern",
-      company_name: "lorem ipsum",
+      title: "Senior Secondary, science",
+      company_name: "Shree Kali Devi Vidya Mandir",
       icon: bny,
       iconBg: "#E6DEDD",
-      date: "May 2023 - July 2023",
+      date: "2008 - April 2023",
       points: [
-        "Developed a web application using React, Node.js, and MongoDB for managing financial transactions",
+        "Grade:9",
       ],
     },
     
