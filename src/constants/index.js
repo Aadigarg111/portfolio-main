@@ -97,7 +97,7 @@ import {
   const projects = [
     {
       title: "TypeMaestro",
-      link: "https://typeamestro.aadigarg.life/",
+      link: "https://typemaestro.aadigarg.life/",
       description: " A quick and accurate typing speed test to measure your words per minute (WPM) and accuracy. ⌨️🚀"
     },
     {
