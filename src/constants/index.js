@@ -96,8 +96,8 @@ import {
   
   const projects = [
     {
-      title: "TypeMaestro",
-      link: "https://typemaestro.aadigarg.life/",
+      title: "Maestro",
+      link: "/",
       description: " A quick and accurate typing speed test to measure your words per minute (WPM) and accuracy. ⌨️🚀"
     },
     {
@@ -112,11 +112,6 @@ import {
       description: "A fully functional Chess game built entirely in React, featuring smooth gameplay, legal move validation, and an interactive UI. Designed with modern React practices, it ensures optimal performance and a seamless user experience."
     },
     
-    {
-      title: " SpaceTrack",
-      link: "/",
-      description: "Void Voyager: An immersive 3D solar system explorer that brings the cosmos to life in your browser with stunning visuals and intuitive controls."
-    },
 
     ];
     
