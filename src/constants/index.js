@@ -96,11 +96,6 @@ import {
   
   const projects = [
     {
-      title: "Maestro",
-      link: "/",
-      description: " A quick and accurate typing speed test to measure your words per minute (WPM) and accuracy. ⌨️🚀"
-    },
-    {
       title: "Collaby - A Collaborative Board",
       link: "/",
       description: "Collaby is an intuitive and interactive collaborative board designed to enhance teamwork and productivity. It allows users to brainstorm, share ideas, and work together in real-time. With features like drag-and-drop elements, customizable boards, and seamless integration with modern tools, Collaby is perfect for project management, creative planning, and remote collaboration."
